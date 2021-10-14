@@ -26,7 +26,7 @@ When evaluating the network on unseen data, we get almost every time a 50/50 spl
 
 Does that mean stock predicting AIs do not work?
 
-No, but AIs that only consider past stock data, do not work because it is at heart random (brownian) motion
+No, but AIs that only consider past stock data, do not work because it is at heart random (brownian) motion.
 AIs are currently in use in the wild by big cooperations but those AIs do natrual language processing and therefore take into account news data!
 
 ## TODO
